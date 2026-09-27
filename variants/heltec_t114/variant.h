@@ -23,7 +23,7 @@
 #define PIN_3V3_EN              (38)
 
 #define BATTERY_PIN             (4)
-#define ADC_MULTIPLIER          (4.90F)
+#define ADC_MULTIPLIER          (4.80F)
 
 #define ADC_RESOLUTION          (14)
 #define BATTERY_SENSE_RES       (12)
